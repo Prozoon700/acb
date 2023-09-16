@@ -1,7 +1,12 @@
-# Abyss
+# ACB - Abyss CB
 
-You may edit the .env file and make MAXCPUS= however many cpu cores you want it to use, for free hosts such as replit or railway, or glitch, type 1.
-Clone the repository and run `npm i && npm start`.
+This is a real-time modification of Abyss, an internet proxy with UI. CB has made some changes optimazing the proxy, optimazing graphic characteristics and other types of changes to improve the characteristics of Abyss.
+
+If you want to use it you can clone this repository and use it on Railway or Replit (it's nots the best idea because Replit block Proxys). In the case of Railway we recommend you to use this Repositorie as the template.
+
+We hope you liked the project and we let down the Creative Commons Copyright of Abyss
+
+# Abyss
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
