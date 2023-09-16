@@ -22,4 +22,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run shell script
-        run: ./main.sh
+        run: git update-index --chmod=+x main.sh
+        run: main.sh
